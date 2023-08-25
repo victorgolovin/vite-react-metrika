@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Heading from '../Heading/Heading'
 
 const HeroSection = () => {
   return (
     <div>
-        <h1>Современные и стильные интерьеры для комфортной жизни</h1>
+        <Heading />
         <div>
             <p>Мы - команда квалифицированных дизайнеров и архитекторов, занимающихся разработкой и реализацией дизайн-проектов</p>
         </div>
