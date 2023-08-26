@@ -5,12 +5,12 @@ import ProjectsSection from './components/ProjectsSection/ProjectsSection'
 
 const App = () => {
   return (
-    <>
+    <div className='container'>
       <HeroSection />
       <AboutSection />
       <ProjectsSection />
 
-    </>
+    </div>
   )
 }
 
